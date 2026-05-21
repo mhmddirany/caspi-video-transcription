@@ -9,11 +9,11 @@ The second notebook evaluates and compares transcript quality between different 
 
 The goal of this project is to build a complete Hebrew transcription workflow:
 
-1. Transcribe Hebrew video/audio files.
+1. Transcribe Hebrew video from youtube/audio files.
 2. Detect speakers and split the audio into speaker-based chunks.
 3. Save clean transcript outputs.
-4. Compare transcripts produced by different models.
-5. Evaluate transcript quality using WER and CER.
+4. Compare transcripts produced by different models using youtube transcript.
+6. Evaluate transcript quality using WER and CER.
 
 ## Notebooks
 
